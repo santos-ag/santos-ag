@@ -29,17 +29,6 @@ accelerator (NPU) focused on edge AI inference on RISC-V architecture.
 The project involves kernel-space development, device drivers, hardware/software
 communication, and low-level performance optimization.
 
----
-
-## 🛠️ Technical Stack
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
----
-
 ## 🎓 About
 
 Computer Science student with a passion for understanding how technology works under
