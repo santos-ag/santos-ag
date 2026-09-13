@@ -7,7 +7,7 @@ Systems Engineer focused on low-level systems, performance, and deep learning.
 C++ as primary language, followed by Python. I enjoy building reliable systems,
 from kernel drivers and memory optimization to tooling and applied machine learning.
 
-**Stack:** `C++` · `Python` · `Rust` · `C` · `Linux` · `Docker` · `PyTorch` · `RISC-V`
+**Stack:** `C++` · `Python`· `C` · `Linux` · `Docker` · `PyTorch` · `RISC-V` ·
 
 ---
 
