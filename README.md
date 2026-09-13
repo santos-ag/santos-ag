@@ -1,7 +1,7 @@
 # Gustavo Alexandre
 
 CTO and co-founder at **Roko Edge**.  
-Systems Engineer focused on low-level systems, performance, and software close to hardware.
+Systems Engineer focused on low-level systems, performance, and deep learning.
 
 C++ as primary language, followed by Python. I enjoy building reliable systems,
 from kernel drivers and memory optimization to tooling and applied machine learning.
