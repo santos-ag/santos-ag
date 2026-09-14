@@ -29,11 +29,6 @@ accelerator (NPU) focused on edge AI inference on RISC-V architecture.
 The project involves kernel-space development, device drivers, hardware/software
 communication, and low-level performance optimization.
 
-## 🎓 About
-
-Computer Science student with a passion for understanding how technology works under
-the hood. Currently specializing in **multithreading and async communication**.
-
 **Interests:**
 
 - OS architecture
