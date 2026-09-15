@@ -18,7 +18,7 @@ from kernel drivers and memory optimization to tooling and applied machine learn
 [Roko](https://github.com/santos-ag/santos-ag) develops local time-series forecasting
 systems for industrial operations, designed to run close to where sensor data is generated.
 
-As CTO and co-founder, I work on the architecture and development of systems focused on
+As CTO, I work on the architecture and development of systems focused on
 efficient edge inference and industrial time-series forecasting.
 
 ### Edge AI: Kernel Driver Development for NPU (RISC-V)
