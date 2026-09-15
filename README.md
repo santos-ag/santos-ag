@@ -31,7 +31,7 @@ communication, and low-level performance optimization.
 
 **Interests:**
 
-- OS architecture
+- Algorithms
 - Hardware acceleration and embedded systems
 - Applied machine learning at edge computing
 - AI architecture
