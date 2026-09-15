@@ -40,7 +40,7 @@ communication, and low-level performance optimization.
 
 ## 📫 Get in Touch
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandrega333@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santos.ag.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-alexandre-4485b1353/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/alexanderthebig0/)
 [![Beecrowd](https://img.shields.io/badge/Beecrowd-F9A825?style=for-the-badge)](https://judge.beecrowd.com/en/profile/1117817)
