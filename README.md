@@ -25,7 +25,7 @@ efficient edge inference and industrial time-series forecasting.
 
 Responsible for the AI side of a hardware accelerator project focused on edge AI inference. Working on neural network optimization, model deployment, and efficient AI algorithms for hardware architectures on RISC-V platforms.
 
-**Interests:**
+### Interests:
 
 - Algorithms
 - Hardware acceleration and embedded systems
