@@ -20,10 +20,10 @@ systems for industrial operations, designed to run close to where sensor data is
 
 As CTO, I work on the architecture and development of systems focused on
 efficient edge inference and industrial time-series forecasting.
-
+T
 ### Edge AI: AI Development for a Multiplierless NPU on RISC-V
 
-Responsible for the AI side of a hardware accelerator project focused on edge AI inference. Working on neural network optimization, model deployment, and efficient AI algorithms for hardware architectures on RISC-V platforms.
+Responsible for the AI side of a hardware accelerator project focused on edge AI inference.
 
 ### Interests:
 
