@@ -21,13 +21,9 @@ systems for industrial operations, designed to run close to where sensor data is
 As CTO, I work on the architecture and development of systems focused on
 efficient edge inference and industrial time-series forecasting.
 
-### Edge AI: Kernel Driver Development for NPU (RISC-V)
+### Edge AI: AI Development for a Multiplierless NPU on RISC-V
 
-Developing a Linux Kernel Driver for communication with a multiplierless hardware
-accelerator (NPU) focused on edge AI inference on RISC-V architecture.
-
-The project involves kernel-space development, device drivers, hardware/software
-communication, and low-level performance optimization.
+Responsible for the AI side of a hardware accelerator project focused on edge AI inference. Working on neural network optimization, model deployment, and efficient AI algorithms for hardware architectures on RISC-V platforms.
 
 **Interests:**
 
