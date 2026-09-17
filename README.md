@@ -2,7 +2,7 @@
 
 CTO and co-founder at **Roko Edge**. - https://rokoedge.com/ 
 
-Systems Engineer focused on low-level systems, performance, and deep learning.
+Systems Engineer focused on performance and deep learning.
 
 C++ and Python as main stack. I enjoy building reliable systems,
 from kernel drivers and memory optimization to tooling and applied machine learning.
