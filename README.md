@@ -27,7 +27,7 @@ Responsible for the AI side of a hardware accelerator project focused on edge AI
 
 ### Tars-ML:
 
-Machine Learning library built in C++ without external libraries
+Machine Learning library built in C++ without external libraries.
 
 ### Interests:
 
