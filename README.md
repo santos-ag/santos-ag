@@ -21,9 +21,13 @@ systems for industrial operations, designed to run close to where sensor data is
 As CTO, I work on the architecture and development of systems focused on
 efficient edge inference and industrial time-series forecasting.
 
-### Edge AI: AI Development for a Multiplierless NPU on RISC-V
+### Ternary Edge: AI Development for a Multiplierless NPU on RISC-V
 
 Responsible for the AI side of a hardware accelerator project focused on edge AI inference.
+
+### Tars-ML:
+
+Machine Learning library built in C++ without external libraries
 
 ### Interests:
 
