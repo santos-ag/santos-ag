@@ -23,9 +23,9 @@ efficient edge inference and industrial time-series forecasting.
 
 Responsible for the AI side of a hardware accelerator project focused on edge AI inference.
 
-### Tars:
+### Tars
 
-TinyML library built in native rust without external libraries.
+TinyML library built in native rust without external ML libraries.
 
 ### Interests:
 
