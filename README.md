@@ -3,9 +3,7 @@
 CTO and co-founder at **Roko Edge**. - https://rokoedge.com/ 
 
 Systems Engineer focused on performance and deep learning.
-
-Rust and Python as main stack. I enjoy building reliable systems,
-from memory optimization to tooling and applied machine learning.
+I enjoy building reliable systems, from memory optimization to tooling and applied machine learning.
 
 **Stack:** `Rust` · `Python`· `C++` · `Linux` · `Docker` · `PyTorch` · `RISC-V` ·
 
