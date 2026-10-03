@@ -16,7 +16,7 @@ I enjoy building reliable systems, from memory optimization to tooling and appli
 [Roko](https://github.com/santos-ag/santos-ag) develops local time-series forecasting
 systems for industrial operations, designed to run close to where sensor data is generated.
 
-As CTO, I work on the architecture and development of systems focused on
+As CTO, i work on the architecture and development of systems focused on
 efficient edge inference and industrial time-series forecasting.
 
 ### Ternary Edge: AI Development for a Multiplierless NPU on RISC-V
