@@ -21,7 +21,7 @@ efficient edge inference and industrial time-series forecasting.
 
 ### Ternary Edge: AI Development for a Multiplierless NPU on RISC-V
 
-Responsible for the AI side of a hardware accelerator project focused on edge AI inference.
+Responsible for the AI side and drive development of a hardware accelerator project focused on edge AI inference.
 
 ### Tars
 
